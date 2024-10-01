@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "SofiaMobileACOMultiplatformLib",
-         url: "https://github.com/pitagorasampli/sofia_mobile_aco_multiplatform_package/releases/download/0.0.3-test/SofiaMobileACOMultiplatformLib.xcframework.zip",
-         checksum:"d2f7c0a8273a2bab39c41ae8c92402c3b601dc36f499b6c120255d5cb839b2cb")
+         url: "https://github.com/pitagorasampli/sofia_mobile_aco_multiplatform_package/releases/download/0.0.4-Test/SofiaMobileACOMultiplatformLib.xcframework.zip",
+         checksum:"daf7de9265ea5c85dacf9eb25231a345e053d6aa9f929aaf06223f2baa52be55f")
    ]
 )
